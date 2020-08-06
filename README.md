@@ -1,11 +1,24 @@
-# Code Challenge Prep
+# README
 
-This is a shell rails project that has the same configuration as the project EOS uses for the code challenge portion of the interview.
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-Please make sure you have all of the dependencies set up before the interview to give you more time to work on the sample app during the interview.
+Things you may want to cover:
 
-This project hasn't been updated in a while, so pay attention to the versions. Specifically, Ruby 2.4.4 and Rails 4.2.8.
+* Ruby version
 
-We have included UnitTest in the gemset, but if you prefer to use RSpec (we prefer it) and intend to write tests while you work, feel free to ready it and drop it in at the beginning of the interview.
+* System dependencies
 
-Good luck!
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
