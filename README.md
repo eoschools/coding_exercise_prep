@@ -1,24 +1,25 @@
-# README
+# About This Repo
+This is a shell rails project that has the same configuration as the project EOS uses in the coding exercise repo.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Please make sure you have all of the dependencies set up before the interview to give you more time to work on the sample app during the interview.
 
-Things you may want to cover:
+# About the Coding Exercise
 
-* Ruby version
+The exercise will help us:
+* Evaluate coding style and method.
+* See how you communicate.
+* Demonstrate your ability to read and evaluate legacy code.
 
-* System dependencies
+Just like in the real world, during the coding exercise you will:
+* Be given some requirements (hint: they might be in the readme file).
+* Work on a project someone else has started, so some of the work will have been done already.
+* You'll be working with mostly Rails, HTML, and jQuery.
+* Ask loads of questions -- no points taken off. Seriously, not asking questions might indicate a problem.
+* Look things up on the internet, pull from your magic bag on Github.
+* Not worry about finishing the project. Finishing is not the goal of this exercise and time is short. Work well, not fast.
 
-* Configuration
+What's not like the real world:
+* What is there works. There are no known bugs you need to fix or code that needs to be refactored.
+* It's time to talk through what you're doing _out loud_. EOS staff can do almost anything, except read minds.
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Good luck!
