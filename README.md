@@ -31,4 +31,6 @@ Please make sure you have all of the dependencies set up before the interview to
 
 You may delete the project after you have successfully completed these steps. Your system ready for the coding exercise.
 
+Hint: This project uses SQLite3. [Case-insensitive searches in SQLite](https://stackoverflow.com/a/2220595/402870) are easy.
+
 Good luck!
